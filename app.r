@@ -200,6 +200,8 @@ server <- function(input, output) {
         ) 
     }
     
+    return(p)
+    
   })
   
   # Simulation results
